@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih YELBO\u011EA\\Documents\\GitHub\\FileOrbis.Backend\\FileOrbis.IntermediateLayer.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD79959B-6CAF-429B-8F78-26C41B6EACFA}|FileOrbis.IntermediateLayer.Backend\\FileOrbis.IntermediateLayer.Backend.csproj|c:\\users\\fatih yelbo\u011Fa\\documents\\github\\fileorbis.backend\\fileorbis.intermediatelayer.backend\\fileorbis.intermediatelayer.backend\\controllers\\filesystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD79959B-6CAF-429B-8F78-26C41B6EACFA}|FileOrbis.IntermediateLayer.Backend\\FileOrbis.IntermediateLayer.Backend.csproj|solutionrelative:fileorbis.intermediatelayer.backend\\controllers\\filesystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD79959B-6CAF-429B-8F78-26C41B6EACFA}|FileOrbis.IntermediateLayer.Backend\\FileOrbis.IntermediateLayer.Backend.csproj|c:\\users\\fatih yelbo\u011Fa\\documents\\github\\fileorbis.backend\\fileorbis.intermediatelayer.backend\\fileorbis.intermediatelayer.backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD79959B-6CAF-429B-8F78-26C41B6EACFA}|FileOrbis.IntermediateLayer.Backend\\FileOrbis.IntermediateLayer.Backend.csproj|solutionrelative:fileorbis.intermediatelayer.backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileSystemController.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih YELBO\u011EA\\Documents\\GitHub\\FileOrbis.Backend\\FileOrbis.IntermediateLayer.Backend\\FileOrbis.IntermediateLayer.Backend\\Controllers\\FileSystemController.cs",
+              "RelativeDocumentMoniker": "FileOrbis.IntermediateLayer.Backend\\Controllers\\FileSystemController.cs",
+              "ToolTip": "C:\\Users\\Fatih YELBO\u011EA\\Documents\\GitHub\\FileOrbis.Backend\\FileOrbis.IntermediateLayer.Backend\\FileOrbis.IntermediateLayer.Backend\\Controllers\\FileSystemController.cs",
+              "RelativeToolTip": "FileOrbis.IntermediateLayer.Backend\\Controllers\\FileSystemController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAG4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:43:05.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih YELBO\u011EA\\Documents\\GitHub\\FileOrbis.Backend\\FileOrbis.IntermediateLayer.Backend\\FileOrbis.IntermediateLayer.Backend\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "FileOrbis.IntermediateLayer.Backend\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Fatih YELBO\u011EA\\Documents\\GitHub\\FileOrbis.Backend\\FileOrbis.IntermediateLayer.Backend\\FileOrbis.IntermediateLayer.Backend\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "FileOrbis.IntermediateLayer.Backend\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:43:05.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d8m9J7DTH7Fl32u863fvUay7uc9RJq0fiECVdNdGCgA=",
+  "Source": "FileOrbis.IntermediateLayer.Backend",
+  "BasePath": "_content/FileOrbis.IntermediateLayer.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
