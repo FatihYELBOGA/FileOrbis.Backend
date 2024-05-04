@@ -3,7 +3,7 @@
     public class CreateTokenRequest
     {
 
-        public TokenRequestModel Model { get; set; }
+        public TokenRequestModel RequestModel { get; set; }
         public string[] ItemNameCollection { get; set; }
 
     }
