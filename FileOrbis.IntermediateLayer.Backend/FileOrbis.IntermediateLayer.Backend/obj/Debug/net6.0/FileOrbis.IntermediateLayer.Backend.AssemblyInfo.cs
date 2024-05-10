@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileOrbis.IntermediateLayer.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ecb6f21e0428e792754b911ae107860a67036cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6123d5c92a1897de4403a9b791c8ace412b64f3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileOrbis.IntermediateLayer.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileOrbis.IntermediateLayer.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
